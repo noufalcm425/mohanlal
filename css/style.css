@@ -1,0 +1,22 @@
+.hp{
+  display: flex;
+  justify-content: space-between;
+    
+}
+ #a1{
+    width: 400px;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    background-color: cornflowerblue;
+    line-height: 30px;
+    font-family: cursive;
+ }   
+img{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-color: gray;
+}
